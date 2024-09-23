@@ -1,0 +1,11 @@
+Report Layout:
+	- Project Title
+	- Executive Summary
+	- Table of Contents
+	- Intro & Background Review
+	- System Description
+	- Overall System Architecture
+	- Implementation Details
+	- Testing & Performance Evaluation
+	- Usability & Societal Impact
+	- Conclusions & Recommendations

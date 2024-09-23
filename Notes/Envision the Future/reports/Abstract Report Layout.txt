@@ -1,0 +1,22 @@
+Report Layout:
+	- Problem Statement
+	- Significance of the Problem
+	- Current Solutions
+	- Your Solutions
+		- How it differs from other solutions we have
+		- How it is unique than the other solutions 
+	- Expected Impact of Your Solutions (Social - Commercial - Environmental ...etc)
+	- Functional description of you solution
+		- How it functions 
+		- Technical details
+		- Design
+	- Technical description of your solution: architecture, technology, integration,
+ innovative components, etc.
+	- Description of your solutions, development environment, platform, tools
+	- Product development cycle, quality assurance process, solution deployment logistics
+		- How you will develop it through out the phases
+		- How you will ensure its quality
+		- Which logistics you are going to use for the idea
+	- Give the most relevant plans that you have developed for your project (for example, time, schedule, resource plan, training plan, risk management, contingency plan, etc.)
+	
+	

@@ -1,0 +1,52 @@
+- Eligible Technology Areas & Project Sectors:
+	- Technology Areas Focus:
+		- AI
+		- IoT
+		- 5G
+		- Information Security
+	
+	- Project Sectors Target:
+		- Education
+		- Agriculture
+		- Sustainability
+		- Healthcare
+		- well-being
+		
+- Timeline:
+	- Oct 15: Abstract Submission Opens
+	- Nov 15: Abstract Submission Deadline
+	- Jan 9: Shortlisted Projects Announcement
+	- Feb 16: Interim Report Submission Deadline
+	- Mar 13: Announcement of the Top 20 Finalists and mentorship will be offered
+	- Jul 25: Final Project Submission Deadline
+	- Aug 31: Winners Announcement
+	
+- Eligibility Criteria:
+	- Senior Year in META Region
+	- Faculty Member as a Supervisor
+	- Signed verification letter proving he credibility of the graduation project
+	- Team consists of 3 to 6 team members
+	- Non-governmental Employee & Full-time University Student
+	- All communications between Dell Technologies and project's team will be through the academic supervisor and the team leader
+	- Students should be listed in only one project
+	
+- Copyrights:
+	- If copying illustrations, and/or statements give in textbooks or published papers, clearly refer to the original source and list them properly in the "references" section.
+	- Copied material-even when properly referenced is not expected to exceed 20% of your report
+	- refrain as much as can from copying text, code, drawings & graphics from other publications
+	- The project is tested throughout all the phases
+	- Pay attention to the accuracy of language:
+		- Spelling 
+		- Format
+		- Punctuation
+		
+Graduation Project Guidelines:
+	- Will have three submission Abstract, Interim and Final report submissions
+	
+- Mentorship:
+	* Consider yourself a winner if you reached mentorship phase
+	- Having a Technical Skills mentorship (AI - Iot - 5G - Information Security)
+	- Having Project Management Skills Mentorship
+	* One hour bi-weekly session
+	* There are two mentors 
+	

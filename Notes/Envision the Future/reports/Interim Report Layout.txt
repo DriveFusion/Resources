@@ -1,0 +1,7 @@
+Report Layout:
+	- Project Description
+	- Project Plan
+	- System Requirements
+	- System Design
+	- System Implementation
+	- Other Relevant Issues & Challenges
