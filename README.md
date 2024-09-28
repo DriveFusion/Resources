@@ -33,8 +33,8 @@ Welcome to the **Resources** repository! This repository provides a curated coll
 2) Auto-labeling or manual labeling datasets **if needed**
 3) Develop **`not from scratch`** and train MLLM model
     1) **Develop VLA model:** Make the LLM able to see general image, multi-image and videos (e.g. `SigLIP`, `SVFormer`)
-    * In the next step we can add Lidar data to the model (e.g. `GD-MAE`)
-    * Add Self-Discover method to make the model reason better
+    * In the next step we can add Lidar data to the model using **masked autoencoder** (e.g. `GD-MAE`)
+    * Add Self-Discover reasoning method to make the model reason better
     2) **Perception and Understanding:** Make the model to be able to multi objects referring, 3D object detection and tracking
     3) **Navigation and Planning VLA model:** Make the model to be able to predict trajectory, motion planning and localization
     4) **Decision Making and Control:** Open-loop or Closed-loop decision making 
